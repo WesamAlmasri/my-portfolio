@@ -33,3 +33,15 @@ Start time: 01:40
 Finish time: 02:30
 
 Actual time needed to complete: 50 min
+
+---
+
+Number and name of feature: Feature #4: Add functionality
+
+Estimate of time needed to complete: 15 min
+
+Start time: 04:10
+
+Finish time: 04: 20
+
+Actual time needed to complete: 20 min
