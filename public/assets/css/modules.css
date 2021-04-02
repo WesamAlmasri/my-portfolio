@@ -27,6 +27,12 @@
 section,
 article {
   margin-bottom: 3em;
+  transition: 0.5s;
+}
+
+article:hover {
+  -webkit-box-shadow: 5px 2px 15px -2px #e27689; 
+  box-shadow: 5px 2px 15px -2px #e27689;
 }
 
 section > :last-child,

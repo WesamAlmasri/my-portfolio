@@ -1,6 +1,6 @@
 # my-portfolio
 
-Number and name of feature: Feature #`: Refactor the CSS
+Number and name of feature: Feature #`: Feature #1: Deployment
 
 Estimate of time needed to complete: 05 min
 
@@ -16,7 +16,7 @@ Number and name of feature: Feature #2: Refactor the CSS
 
 Estimate of time needed to complete: 20 min
 
-Start time: 01:5
+Start time: 01:05
 
 Finish time: 01:30
 
